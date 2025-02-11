@@ -31,3 +31,5 @@ C:\BlazorApplications\ConnectFour\obj\Debug\net8.0\refint\ConnectFour.dll
 C:\BlazorApplications\ConnectFour\obj\Debug\net8.0\ConnectFour.pdb
 C:\BlazorApplications\ConnectFour\obj\Debug\net8.0\ConnectFour.genruntimeconfig.cache
 C:\BlazorApplications\ConnectFour\obj\Debug\net8.0\ref\ConnectFour.dll
+C:\BlazorApplications\ConnectFour\obj\Debug\net8.0\ConnectFour.sourcelink.json
+C:\BlazorApplications\ConnectFour\obj\Debug\net8.0\scopedcss\Components\Board.razor.rz.scp.css

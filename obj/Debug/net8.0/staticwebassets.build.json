@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8qRrlBe1eu+UEIzpOOT8meOKxC5bjJO5YiUtr57Iu8g=",
+  "Hash": "GAGeCpBfC4YRc1SwXO6gUedGkHpAAiVybHnMf7LKm2c=",
   "Source": "ConnectFour",
   "BasePath": "_content/ConnectFour",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "cwoz4j1gi4",
-      "Integrity": "zCgPxUBQyCk1Z1EMw3TPQqAb3ajpYBNwl7ByhQ3vBdg=",
+      "Fingerprint": "mxpyr86ls9",
+      "Integrity": "ynIXIwukOSsqzt/n0D1+YznSjxAZmUmVnnJXXmCPS6M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\BlazorApplications\\ConnectFour\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ConnectFour.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "cwoz4j1gi4",
-      "Integrity": "zCgPxUBQyCk1Z1EMw3TPQqAb3ajpYBNwl7ByhQ3vBdg=",
+      "Fingerprint": "mxpyr86ls9",
+      "Integrity": "ynIXIwukOSsqzt/n0D1+YznSjxAZmUmVnnJXXmCPS6M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\BlazorApplications\\ConnectFour\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ConnectFour.bundle.scp.css"
@@ -401,7 +401,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5905"
+          "Value": "10471"
         },
         {
           "Name": "Content-Type",
@@ -409,11 +409,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zCgPxUBQyCk1Z1EMw3TPQqAb3ajpYBNwl7ByhQ3vBdg=\""
+          "Value": "\"ynIXIwukOSsqzt/n0D1+YznSjxAZmUmVnnJXXmCPS6M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 10:16:56 GMT"
+          "Value": "Tue, 11 Feb 2025 14:07:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -423,12 +423,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zCgPxUBQyCk1Z1EMw3TPQqAb3ajpYBNwl7ByhQ3vBdg="
+          "Value": "sha256-ynIXIwukOSsqzt/n0D1+YznSjxAZmUmVnnJXXmCPS6M="
         }
       ]
     },
     {
-      "Route": "ConnectFour.cwoz4j1gi4.bundle.scp.css",
+      "Route": "ConnectFour.mxpyr86ls9.bundle.scp.css",
       "AssetFile": "C:\\BlazorApplications\\ConnectFour\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ConnectFour.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -438,7 +438,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5905"
+          "Value": "10471"
         },
         {
           "Name": "Content-Type",
@@ -446,11 +446,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zCgPxUBQyCk1Z1EMw3TPQqAb3ajpYBNwl7ByhQ3vBdg=\""
+          "Value": "\"ynIXIwukOSsqzt/n0D1+YznSjxAZmUmVnnJXXmCPS6M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 10:16:56 GMT"
+          "Value": "Tue, 11 Feb 2025 14:07:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -460,7 +460,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cwoz4j1gi4"
+          "Value": "mxpyr86ls9"
         },
         {
           "Name": "label",
@@ -468,12 +468,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zCgPxUBQyCk1Z1EMw3TPQqAb3ajpYBNwl7ByhQ3vBdg="
+          "Value": "sha256-ynIXIwukOSsqzt/n0D1+YznSjxAZmUmVnnJXXmCPS6M="
         }
       ]
     },
     {
-      "Route": "ConnectFour.cwoz4j1gi4.styles.css",
+      "Route": "ConnectFour.mxpyr86ls9.styles.css",
       "AssetFile": "C:\\BlazorApplications\\ConnectFour\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ConnectFour.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -483,7 +483,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5905"
+          "Value": "10471"
         },
         {
           "Name": "Content-Type",
@@ -491,11 +491,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zCgPxUBQyCk1Z1EMw3TPQqAb3ajpYBNwl7ByhQ3vBdg=\""
+          "Value": "\"ynIXIwukOSsqzt/n0D1+YznSjxAZmUmVnnJXXmCPS6M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 10:16:56 GMT"
+          "Value": "Tue, 11 Feb 2025 14:07:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -505,7 +505,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cwoz4j1gi4"
+          "Value": "mxpyr86ls9"
         },
         {
           "Name": "label",
@@ -513,7 +513,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zCgPxUBQyCk1Z1EMw3TPQqAb3ajpYBNwl7ByhQ3vBdg="
+          "Value": "sha256-ynIXIwukOSsqzt/n0D1+YznSjxAZmUmVnnJXXmCPS6M="
         }
       ]
     },
@@ -528,7 +528,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5905"
+          "Value": "10471"
         },
         {
           "Name": "Content-Type",
@@ -536,11 +536,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zCgPxUBQyCk1Z1EMw3TPQqAb3ajpYBNwl7ByhQ3vBdg=\""
+          "Value": "\"ynIXIwukOSsqzt/n0D1+YznSjxAZmUmVnnJXXmCPS6M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 11 Feb 2025 10:16:56 GMT"
+          "Value": "Tue, 11 Feb 2025 14:07:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -550,7 +550,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zCgPxUBQyCk1Z1EMw3TPQqAb3ajpYBNwl7ByhQ3vBdg="
+          "Value": "sha256-ynIXIwukOSsqzt/n0D1+YznSjxAZmUmVnnJXXmCPS6M="
         }
       ]
     },
